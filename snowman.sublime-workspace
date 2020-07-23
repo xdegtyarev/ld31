@@ -1,0 +1,2146 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"OnTri",
+				"OnTriggerEnter	other"
+			],
+			[
+				"cha",
+				"characterCollider	UnityEngine.Collider"
+			],
+			[
+				"new",
+				"newVolumeSet	UnityEngine.GameObject[]"
+			],
+			[
+				"defa",
+				"defaultSize	float"
+			],
+			[
+				"de",
+				"defaultSize	float"
+			],
+			[
+				"Col",
+				"Collider	Collider"
+			],
+			[
+				"locl",
+				"localToWorldMatrix	UnityEngine.Matrix4x4 { get; }"
+			],
+			[
+				"Cache",
+				"cachedTransform	UnityEngine.Transform"
+			],
+			[
+				"Trans",
+				"Transform	Transform"
+			],
+			[
+				"chara",
+				"characterController	UnityEngine.CharacterController"
+			],
+			[
+				"in",
+				"Input	Input"
+			],
+			[
+				"Vec",
+				"Vector3	x, y, z"
+			],
+			[
+				"eu",
+				"Euler(Vector3 euler)	UnityEngine.Quaternion"
+			],
+			[
+				"clam",
+				"Clamp(float value, float min, float max)	float"
+			],
+			[
+				"eul",
+				"EulerRotation(Vector3 euler)	UnityEngine.Quaternion"
+			],
+			[
+				"mou",
+				"mousePosition	UnityEngine.Vector3 { get; }"
+			],
+			[
+				"mouse",
+				"mouseScrollDelta	UnityEngine.Vector3 { get; }"
+			],
+			[
+				"local",
+				"localRotation	UnityEngine.Quaternion { get; set; }"
+			],
+			[
+				"en",
+				"entranceCell	global::Cell { get; }"
+			],
+			[
+				"Base",
+				"Basement	Basement"
+			],
+			[
+				"char",
+				"character	global::Character"
+			],
+			[
+				"end",
+				"endregion	endregion"
+			],
+			[
+				"empl",
+				"EmployeeManager	EmployeeManager"
+			],
+			[
+				"col",
+				"Collections	Collections"
+			],
+			[
+				"Animat",
+				"Animator	Animator"
+			],
+			[
+				"Fig",
+				"Fighter	Fighter"
+			],
+			[
+				"getco",
+				"GetComponent<T>()	T"
+			],
+			[
+				"cons",
+				"consumerData	global::ConsumerData { get; }"
+			],
+			[
+				"tk2dan",
+				"tk2dSpriteAnimator	tk2dSpriteAnimator"
+			],
+			[
+				"GetC",
+				"GetComponent<T>()	T"
+			],
+			[
+				"Charac",
+				"CharacterData	CharacterData"
+			],
+			[
+				"figh",
+				"fighterData"
+			],
+			[
+				"he",
+				"hideFlags	UnityEngine.HideFlags { get; set; }"
+			],
+			[
+				"hea",
+				"healthBar"
+			],
+			[
+				"se",
+				"Security	Security"
+			],
+			[
+				"Chara",
+				"Character	Character"
+			],
+			[
+				"curr",
+				"currentSpawnSetting	global::SpawningRateSetting"
+			],
+			[
+				"Bas",
+				"Basement	Basement"
+			],
+			[
+				"Baseme",
+				"BasementSettings	BasementSettings"
+			],
+			[
+				"tos",
+				"GoToSell(DistrictData district)	void"
+			],
+			[
+				"District",
+				"DistrictManager	DistrictManager"
+			],
+			[
+				"ve",
+				"Vector3	Vector3"
+			],
+			[
+				"cit",
+				"CityCarView"
+			],
+			[
+				"getc",
+				"GetComponent<T>()	T"
+			],
+			[
+				"gara",
+				"GarageManager	GarageManager"
+			],
+			[
+				"counter",
+				"counterValue	int"
+			],
+			[
+				"cur",
+				"currentTruck	global::Truck"
+			],
+			[
+				"set",
+				"Set(StoragableType type, int quantity)	void"
+			],
+			[
+				"sor",
+				"sortingLayer	string"
+			],
+			[
+				"sort",
+				"sortingLayerName	string"
+			],
+			[
+				"storageview",
+				"storageViewConfig	global::StorageViewConfiguration"
+			],
+			[
+				"sotragev",
+				"storageViewConfig	global::StorageViewConfiguration"
+			],
+			[
+				"Tr",
+				"TryGetItem(StoragableType type, int count)	bool"
+			],
+			[
+				"truck",
+				"truckView	global::tk2dSprite"
+			],
+			[
+				"trc",
+				"trucks	System.Collections.Generic.List<global::Truck>"
+			],
+			[
+				"current",
+				"currentTruckId	int"
+			],
+			[
+				"Game",
+				"GameObject	GameObject"
+			],
+			[
+				"get",
+				"GetCount(StoragableType type)	int"
+			],
+			[
+				"UICo",
+				"UICounter	UICounter"
+			],
+			[
+				"Sr",
+				"SerializeField	SerializeField"
+			],
+			[
+				"Dis",
+				"DistrictData	DistrictData"
+			],
+			[
+				"yea",
+				"yearsPerCopKilled	int"
+			],
+			[
+				"y",
+				"yearsPerCellGot	int"
+			],
+			[
+				"yerspe",
+				"yearsPerPackSold	int"
+			],
+			[
+				"tag",
+				"CompareTag(string tag)	bool"
+			],
+			[
+				"fin",
+				"FindGameObjectWithTag(string tag)	UnityEngine.GameObject"
+			],
+			[
+				"find",
+				"FindWithTag(string tag)	UnityEngine.GameObject"
+			],
+			[
+				"is",
+				"activeSelf	bool { get; }"
+			],
+			[
+				"Find",
+				"FindSceneObjectsOfType(Type type)	UnityEngine.Object[]"
+			],
+			[
+				"Halfb",
+				"HalfbusSceneGrid	HalfbusSceneGrid"
+			],
+			[
+				"coun",
+				"counterValue	int"
+			],
+			[
+				"cu",
+				"currentlySelectedRoom	global::RoomInfo"
+			],
+			[
+				"Upda",
+				"UpdateElectricityCapacityLabel()	void"
+			],
+			[
+				"Reso",
+				"ResourcesManager	ResourcesManager"
+			],
+			[
+				"Elec",
+				"ElectricityRoomInfo	ElectricityRoomInfo"
+			],
+			[
+				"Ele",
+				"ElectricityRoomInfo	ElectricityRoomInfo"
+			],
+			[
+				"Dormr",
+				"DormRoom	DormRoom"
+			],
+			[
+				"Sec",
+				"SecurityRoomInfo	SecurityRoomInfo"
+			],
+			[
+				"Update",
+				"UpdateSecurityCapacity(int transaction)	void"
+			],
+			[
+				"Dormroo",
+				"DormRoomInfo	DormRoomInfo"
+			],
+			[
+				"Empl",
+				"EmployeeManager	EmployeeManager"
+			],
+			[
+				"upda",
+				"UpdateEmployeeCapacityLabel()	void"
+			],
+			[
+				"emp",
+				"employeeCapacityLabel	global::tk2dTextMesh"
+			],
+			[
+				"Ser",
+				"SerializeField	SerializeField"
+			],
+			[
+				"epm",
+				"employeeCapacity	int"
+			],
+			[
+				"Scie",
+				"Scientist	Scientist"
+			],
+			[
+				"ro",
+				"RoomInfo	RoomInfo"
+			],
+			[
+				"roo",
+				"Room	CellState Room"
+			],
+			[
+				"li",
+				"Library	tk2dSpriteAnimation Library { get; set; }"
+			],
+			[
+				"place",
+				"PlaceProgressBar(	SlicedProgressBar PlaceProgressBar(Cell cell)"
+			],
+			[
+				"pla",
+				"PlaceProgressBar(	SlicedProgressBar PlaceProgressBar(Cell cell)"
+			],
+			[
+				"GetCom",
+				"GetComponentInChildren<	T GetComponentInChildren()"
+			],
+			[
+				"Ob",
+				"Object	Object"
+			],
+			[
+				"Progress",
+				"SlicedProgressBar	SlicedProgressBar"
+			],
+			[
+				"GameO",
+				"GameObject	GameObject"
+			],
+			[
+				"Storagero",
+				"StorageRoomInfo	StorageRoomInfo"
+			],
+			[
+				"Facto",
+				"FactoryRoomInfo	FactoryRoomInfo"
+			],
+			[
+				"Fac",
+				"FactoryRoomInfo	FactoryRoomInfo"
+			],
+			[
+				"Factor",
+				"FactoryRoom	FactoryRoom"
+			],
+			[
+				"l",
+				"LogError(	void LogError(object message)"
+			],
+			[
+				"fact",
+				"factoryRoomInfo	FactoryRoomInfo factoryRoomInfo"
+			],
+			[
+				"factor",
+				"factoryRoomInfo	FactoryRoomInfo factoryRoomInfo"
+			],
+			[
+				"facto",
+				"FactoryRoomInfo	FactoryRoomInfo"
+			],
+			[
+				"pric",
+				"priceLabel	tk2dTextMesh priceLabel"
+			],
+			[
+				"garage",
+				"GarageListItem	GarageListItem"
+			],
+			[
+				"reg",
+				"RegisterLandOccipatiom()	void RegisterLandOccipatiom()"
+			],
+			[
+				"Gameo",
+				"GameOverScreen	GameOverScreen"
+			],
+			[
+				"re",
+				"RegisterPackSold(	void RegisterPackSold(int quantity)"
+			],
+			[
+				"Scientist",
+				"Scientist	Scientist"
+			],
+			[
+				"fi",
+				"fighter	Fighter fighter"
+			],
+			[
+				"fig",
+				"Fighter	Fighter"
+			],
+			[
+				"Fight",
+				"Fighter	Fighter"
+			],
+			[
+				"yearsper",
+				"yearsPerCopKilled	int yearsPerCopKilled"
+			],
+			[
+				"years",
+				"yearsPerPackSold	int yearsPerPackSold"
+			],
+			[
+				"Stora",
+				"StorageView()	StorageView()"
+			],
+			[
+				"Storageviewco",
+				"StorageViewConfiguration	StorageViewConfiguration"
+			],
+			[
+				"Storageview",
+				"StorageViewConfiguration	StorageViewConfiguration"
+			],
+			[
+				"storage",
+				"StorageModelSettings	StorageModelSettings"
+			],
+			[
+				"Storageviewcon",
+				"StorageViewConfigurationManager	StorageViewConfigurationManager"
+			],
+			[
+				"Storage",
+				"StorageModelSettings	StorageModelSettings"
+			],
+			[
+				"o",
+				"sortingOrder	int sortingOrder"
+			],
+			[
+				"StorageView",
+				"StorageCellView	StorageCellView"
+			],
+			[
+				"order",
+				"orderLayer"
+			],
+			[
+				"view",
+				"viewOffset	float viewOffset"
+			],
+			[
+				"Get",
+				"GetItemCount()	int GetItemCount()"
+			],
+			[
+				"ite",
+				"itemCount"
+			],
+			[
+				"Storag",
+				"StorageModel	StorageModel"
+			],
+			[
+				"GUIL",
+				"GUILayout	GUILayout"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/FPSInputController.cs",
+			"settings":
+			{
+				"buffer_size": 1053,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Standard Assets/Projectors/Sources/Shaders/Projector Light.shader",
+			"settings":
+			{
+				"buffer_size": 1191,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/InfiniteVolumeControl.cs",
+			"settings":
+			{
+				"buffer_size": 1837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/Volume.cs",
+			"settings":
+			{
+				"buffer_size": 332,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Pascal/fpc.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"relao",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"omn",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"omnrel",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"sets",
+				"Set Syntax: C#"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle",
+				"Toggle ScopeAlways"
+			],
+			[
+				"omnisrel",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"reloa",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacaka",
+				"Package Control: Install Package"
+			],
+			[
+				"scope",
+				"Toggle ScopeAlways"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"colo",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"colorc",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"colori",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"script",
+				"Set Syntax: ScriptCs"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pacak",
+				"Package Control: List Packages"
+			],
+			[
+				"omnishrp",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"ide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reload",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"reloads",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"relaod",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"omnishar",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"tyu",
+				"OmniSharpSublime: Type Lookup"
+			],
+			[
+				"tye",
+				"OmniSharpSublime: Type Lookup"
+			],
+			[
+				"type",
+				"OmniSharpSublime: Type Lookup"
+			],
+			[
+				"omnisharp",
+				"OmniSharpSublime: Type Lookup"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"omnishr",
+				"OmniSharpSublime: Fix Code Issue"
+			],
+			[
+				"edit ",
+				"Project: Edit"
+			],
+			[
+				"set",
+				"Set Syntax: C#"
+			],
+			[
+				"packagecon",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"sy",
+				"Set Syntax: C#"
+			],
+			[
+				"set syntax c#",
+				"Set Syntax: C#"
+			],
+			[
+				"setsy",
+				"Set Syntax: C#"
+			],
+			[
+				"setsyn",
+				"Set Syntax: C#"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"Sublime Text API Helper: *"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"cssl",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"css ",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"lint",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"packac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: C#"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"gist",
+				"Package Control: List Packages"
+			],
+			[
+				"pas",
+				"Set Syntax: Pascal"
+			],
+			[
+				"pasc",
+				"Set Syntax: Pascal"
+			],
+			[
+				"pasca",
+				"Set Syntax: Pascal"
+			],
+			[
+				"vi",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pascal",
+				"Set Syntax: Pascal"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"pakca",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snippe",
+				"Snippet: void"
+			],
+			[
+				"sn",
+				"Snippet: methodName, parameter, options"
+			],
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pakce",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 244.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/xdegtyarev/Development/Halfbus/Snowman",
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/Assets",
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/Assets/Scripts",
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/Assets/Standard Assets",
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/Assets/Standard Assets/Projectors",
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/Assets/Standard Assets/Projectors/Sources",
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/Assets/Standard Assets/Projectors/Sources/Shaders"
+	],
+	"file_history":
+	[
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/Assets/Scripts/SnowBox.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/Snowman.sln",
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/Assets/Scripts/Trigger.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Snowman/snowman.sublime-project",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Basement.sublime-project",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Basement.sublime-workspace",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/AudioToolkit/Shared Auxiliary Code/UnitySingleton.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageRoom.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Emplyees/Security.cs",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/DRun.sublime-build",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Metagame/Profile.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Shims/DataContractAttribute.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/tk2d/tk2d/Shaders/goodies/PackedTextMesh.shader",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/Better C#.tmLanguage",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/colorcoder.sublime-settings",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Shaders/Alpha8VertexColored.shader",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/City/OnClickListener.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Inspectors/Cop.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/City/City.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/UnityProject.sln",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/tk2d/tk2dUI/Code/Core/tk2dUIAudioManager.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Core/HitInfo.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Emplyees/EmployeeManager.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Emplyees/Employee.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/CellFactory.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/UI/HUD/HireWindow/Scientrist/HireTabbedWindowContentView.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Factory/ProductionRoom.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Consumers/ConsumerQueue.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Consumers/CharacterQueueableSpawner.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Emplyees/Scientist.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/UI/HUD/HireWindow/Security/SecurityHireTabbedWindowContentView.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/UI/General/ComposedView/Popup/Composers/EmployeePopupViewComposer.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Temp/SpawnByClick.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Temp/GoToProdRoom.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Basement/Basement.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/UI/General/ComposedView/Popup/Composers/CopBribePopupViewComposer.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Model/CharacterSettings.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Inspectors/InspectionManager.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Core/Character.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Model/Characters/CharacterData.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Model/Characters/EmployeeData.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Model/Characters/InspectorData.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Model/Characters/ScientistData.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Emplyees/Hero.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Model/Characters/FighterData.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Inspectors/Inspector.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Core/Fighter.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Core/Consumer.cs",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/Users/xdegtyarev/Downloads/Unity3D/UnityC#.tmLanguage",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/ScopeAlways/ScopeAlways.sublime-settings",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/ResourcesManager.cs",
+		"/Users/xdegtyarev/Development/Buddy3D/trunk/UnityProject/Assets/Shaders/Custom/warpfx.cginc",
+		"/Users/xdegtyarev/Development/Buddy3D/trunk/UnityProject/Assets/Shaders/Custom/Shader+DIFFUSE+ZWRITE.shader",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Shaders/DiffuseRamp.shader",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/FX/SelectionOutlineFX.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/tk2d/tk2d/Shaders/SolidVertexColor.shader",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Serialization/CachedAttributeGetter.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Converters/JavaScriptDateTimeConverter.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/TypeNameHandling.cs",
+		"/Users/xdegtyarev/Downloads/C#/C#.tmLanguage",
+		"/Applications/Sublime Text.app/Contents/MacOS/Packages/C#.sublime-package",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Room/FactoryRoomInfo.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Linq/JTokenEqualityComparer.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Shims/EnumMemberAttribute.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Aot/EnumerationExtension.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/City/DistrictWindow.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/City/WarehouseView.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/City/TruckListItem.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/UnityProject-csharp.sln",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/lib/__init__.py",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/listeners/add_file_to_project.py",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/City/DistrictView.cs",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/listeners/completion.py",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/launchers/omni_sharp_launcher.py",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/lib/helpers.py",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/lib/omnisharp.py",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/commands/reload_solution.py",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/commands/__init__.py",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-project",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/OmniSharp.exe.config",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/messages.json",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.py",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/City/DistrictManager.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/AudioToolkit/AudioToolkit/AudioFader.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/AudioToolkit/AudioToolkit/AudioController.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/City/CityCarView.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/City/DistrictData.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/Types/GroundCell.cs",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Utilities/ConvertUtils.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Time/DateTimeEvent.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/tk2d/tk2dTileMap/Editor/tk2dTileMapUtility.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Converters/KeyValuePairConverter.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/DefaultValueHandling.cs",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageView.cs",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/OmniSharp/Default.sublime-keymap",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Serialization/JsonArrayContract.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/JsonPropertyAttribute.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/WinRT/Serialization/RT_JsonArrayContract.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/ObservableSupport/PropertyChangingEventArgs.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/WinRT/Schema/RT_JsonSchemaType.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/tk2d/tk2d/Editor/Sprites/Triangulator/tk2dSpriteFromTextureEditor.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Utilities/StringUtils.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Model/SpawnSettings.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Consumers/SpawningRateSetting.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Basement/BasementSettings.cs",
+		"/Users/xdegtyarev/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Utility/ScreenshotMovie.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/WinRT/Converters/RT_ExpandoObjectConverter.cs",
+		"/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageCellView.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageModel.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Consumers/BasementSpawner.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Core/Consumers/BasementQueueableSpawner.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/Serialization/JsonPrimitiveContract.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/Plugins/JsonDotNet/Source/WinRT/RT_IJsonLineInfo.cs",
+		"/Users/xdegtyarev/Development/Halfbus/Basement/trunk/UnityProject/Assets/Scripts/UI/General/GridView.cs"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Vector3",
+			"path",
+			"NewLinePlacement",
+			"NewLine",
+			"3",
+			"ReceiveHit",
+			"emploeeData",
+			"FactoryRoom",
+			"OnTargetReached",
+			"scientist",
+			"ResetListeners",
+			"cachedTransform",
+			"fighterData",
+			"animator",
+			"get_response",
+			"current_solution_or_folder",
+			"solution_file",
+			"false",
+			"BraceStyle",
+			"condi",
+			"else",
+			"false",
+			"else",
+			"indentBlocks",
+			"BraceStyle",
+			"Brace",
+			"Brac",
+			"Brace",
+			"anonymousMethodBraceStyle",
+			"Brace",
+			"price",
+			"Inspector",
+			"district",
+			"suspicion",
+			"UICounter",
+			"Setup",
+			"storageIndex",
+			"yoffset=5",
+			"yoffset=0 ",
+			"yoffset",
+			"yoffset=-2",
+			"yoffset=3",
+			"78",
+			"68",
+			"58",
+			"yoffset",
+			"employeeCount",
+			"employeeCapacity",
+			"EmployeeCapacity",
+			"employeeCapacity",
+			"EmployeeCapacity",
+			"employeeCapacity",
+			"securityRoomInfo",
+			"SecurityRoomInfo",
+			"securityRoomInfo",
+			"UpdateEmployeeCapacity",
+			"dormRoomInfo",
+			"DormRoomInfo",
+			"dormRoomInfo",
+			"employee",
+			"Employee",
+			"SecurityCapacity",
+			"Employee",
+			"employee",
+			"Employee",
+			"roomInfo",
+			"protected",
+			"anim",
+			"size",
+			"info",
+			"Setup",
+			"OnHiringEmployee",
+			"hero",
+			"fighter",
+			"storageView",
+			"storage",
+			"count",
+			"GetCount",
+			"itemType",
+			"count",
+			"Count",
+			"count",
+			"cols",
+			"EmployeeListItem",
+			"ScientistData",
+			"queueable",
+			"CharacterSpawnSettings",
+			"employee",
+			"Employee",
+			"employee",
+			"Data",
+			"data",
+			"EmployeeData",
+			"FighterData",
+			"employee",
+			"spawnSettings",
+			"health",
+			"[SerializeField]",
+			"speed",
+			"consumptionRate",
+			"Truck",
+			"object",
+			"table",
+			"workAnimationName",
+			"Garage",
+			"[JSONConfiguredField]",
+			"JSONConfiguredField",
+			"is",
+			"Truck",
+			"Name",
+			"\\",
+			"@",
+			"yoffset=3",
+			"yoffset=0 ",
+			"yoffset",
+			"yoffset=7",
+			"yoffset=2",
+			"yoffset=5",
+			"yoffset=4",
+			"yoffset=3",
+			"yoffset=5",
+			"yoffset",
+			"xadvance",
+			"xadvance=2",
+			"xoffset",
+			"88",
+			"78",
+			"68"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/FPSInputController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1010,
+								1010
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 2.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Standard Assets/Projectors/Sources/Shaders/Projector Light.shader",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1143,
+								1143
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/Unity3D Shader Highlighter and Snippets/UnityShader.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/InfiniteVolumeControl.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1011,
+								1011
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 474.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Scripts/Volume.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/C#/C#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 173.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 100.0
+	},
+	"project": "snowman.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"chara",
+				"Assets/Scripts/Core/Characters/Core/Character.cs"
+			],
+			[
+				"charac",
+				"Assets/Scripts/Core/Characters/Core/Character.cs"
+			],
+			[
+				"chrar",
+				"Assets/Scripts/Core/Characters/Core/Character.cs"
+			],
+			[
+				"cha",
+				"Assets/Scripts/Core/Characters/Core/Character.cs"
+			],
+			[
+				"fight",
+				"Assets/Scripts/Core/Characters/Core/Fighter.cs"
+			],
+			[
+				"paca",
+				"Assets/Scripts/Plugins/JsonDotNet/Source/Shims/DataContractAttribute.cs"
+			],
+			[
+				"cit",
+				"Assets/Scripts/City/City.cs"
+			],
+			[
+				"fig",
+				"Assets/Scripts/Core/Characters/Core/Fighter.cs"
+			],
+			[
+				"storage",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageRoom.cs"
+			],
+			[
+				"spawner",
+				"Assets/Scripts/Core/Consumers/BasementSpawner.cs"
+			],
+			[
+				"spaw",
+				"Assets/Scripts/Model/SpawnSettings.cs"
+			],
+			[
+				"bas",
+				"Assets/Scripts/Core/Basement/BasementSettings.cs"
+			],
+			[
+				"groun",
+				"Assets/Scripts/Core/Cell/Cells/Types/GroundCell.cs"
+			],
+			[
+				"characterset",
+				"Assets/Scripts/Model/CharacterSettings.cs"
+			],
+			[
+				"cop",
+				"Assets/Scripts/Core/Characters/Inspectors/Cop.cs"
+			],
+			[
+				"gara",
+				"Assets/Scripts/Core/Garage/GarageManager.cs"
+			],
+			[
+				"truck",
+				"Assets/Scripts/Core/Garage/Truck.cs"
+			],
+			[
+				"citycar",
+				"Assets/Scripts/City/CityCarView.cs"
+			],
+			[
+				"trucks",
+				"Assets/Scripts/Model/TrucksSettings.cs"
+			],
+			[
+				"distriv",
+				"Assets/Scripts/City/DistrictView.cs"
+			],
+			[
+				"truckli",
+				"Assets/Scripts/City/TruckListItem.cs"
+			],
+			[
+				"grou",
+				"Assets/Scripts/Core/Cell/Cells/Types/GroundCell.cs"
+			],
+			[
+				"empl",
+				"Assets/Scripts/Core/Characters/Emplyees/EmployeeManager.cs"
+			],
+			[
+				"factory",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Factory/FactoryRoom.cs"
+			],
+			[
+				"fac",
+				"Assets/Scripts/Core/Room/FactoryRoomInfo.cs"
+			],
+			[
+				"counter",
+				"Assets/Scripts/UI/General/UICounter.cs"
+			],
+			[
+				"storagema",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageManager.cs"
+			],
+			[
+				"help",
+				"Assets/Scripts/Core/Cell/Cells/Types/HelperClass.cs"
+			],
+			[
+				"pro",
+				"Assets/Scripts/Core/Metagame/Profile.cs"
+			],
+			[
+				"res",
+				"Assets/Scripts/Core/ResourcesManager.cs"
+			],
+			[
+				"timem",
+				"Assets/Scripts/Core/Time/TimeManager.cs"
+			],
+			[
+				"halfb",
+				"Assets/Editor/Halfbus/HalfbusGrid.cs"
+			],
+			[
+				"child",
+				"Assets/Scripts/Editor/xdegtyarev/AddChild.cs"
+			],
+			[
+				"prefab",
+				"Assets/Editor/Halfbus/BreakPrefabLink.cs"
+			],
+			[
+				"shopi",
+				"Assets/Scripts/UI/HUD/ShopWindow/ShopItem.cs"
+			],
+			[
+				"shop",
+				"Assets/Scripts/UI/HUD/ShopWindow/ShopTabbedWindowContentView.cs"
+			],
+			[
+				"facto",
+				"Assets/Scripts/Core/Room/FactoryRoomInfo.cs"
+			],
+			[
+				"room",
+				"Assets/Scripts/Core/Cell/Cells/Types/Room.cs"
+			],
+			[
+				"elec",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Generator/ElectricGeneratorRoom.cs"
+			],
+			[
+				"cellfac",
+				"Assets/Scripts/Core/Cell/Cells/CellFactory.cs"
+			],
+			[
+				"securit",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Security/SecurityRoom.cs"
+			],
+			[
+				"factoryro",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Factory/FactoryRoom.cs"
+			],
+			[
+				"secu",
+				"Assets/Scripts/UI/HUD/HireWindow/Security/SecurityHireTabbedWindowContentView.cs"
+			],
+			[
+				"hire",
+				"Assets/Scripts/UI/HUD/HireWindow/Scientrist/HireTabbedWindowContentView.cs"
+			],
+			[
+				"fa",
+				"Assets/Scripts/Core/Room/FactoryRoomInfo.cs"
+			],
+			[
+				"",
+				"Assets/AudioToolkit/AudioToolkit/AudioController.cs"
+			],
+			[
+				"secur",
+				"Assets/Scripts/Core/Room/SecurityRoomInfo.cs"
+			],
+			[
+				"dorm",
+				"Assets/Scripts/Core/Room/DormRoomInfo.cs"
+			],
+			[
+				"cell",
+				"Assets/Scripts/Core/Cell/Cells/Cell.cs"
+			],
+			[
+				"base",
+				"Assets/Scripts/Core/Basement/Basement.cs"
+			],
+			[
+				"storageroom",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageRoom.cs"
+			],
+			[
+				"fact",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Factory/FactoryRoom.cs"
+			],
+			[
+				"chra",
+				"Assets/Scripts/Core/Consumers/CharacterQueueableSpawner.cs"
+			],
+			[
+				"spawn",
+				"Assets/Scripts/Core/Consumers/SpawningRateSetting.cs"
+			],
+			[
+				"ground",
+				"Assets/Scripts/Core/Cell/Cells/Types/GroundCell.cs"
+			],
+			[
+				"hiretruck",
+				"Assets/Scripts/UI/HUD/HireWindow/Garage/TruckHireTabbedWindowContentView.cs"
+			],
+			[
+				"game",
+				"Assets/Scripts/UI/GameOverScreen.cs"
+			],
+			[
+				"sellbu",
+				"Assets/Scripts/UI/HUD/GameWindow/SellButtonContorller.cs"
+			],
+			[
+				"charactersp",
+				"Assets/Scripts/Core/Consumers/CharacterQueueableSpawner.cs"
+			],
+			[
+				"scie",
+				"Assets/Scripts/Core/Characters/Emplyees/Scientist.cs"
+			],
+			[
+				"hero",
+				"Assets/Scripts/Core/Characters/Emplyees/Hero.cs"
+			],
+			[
+				"gameove",
+				"Assets/GameOverScreen.cs"
+			],
+			[
+				"empty",
+				"Assets/Scripts/Core/Cell/Cells/Types/EmptyRoomCell.cs"
+			],
+			[
+				"city",
+				"Assets/Scripts/City/City.cs"
+			],
+			[
+				"districtse",
+				"Assets/Scripts/Model/DistrictSettings.cs"
+			],
+			[
+				"district",
+				"Assets/Scripts/City/DistrictView.cs"
+			],
+			[
+				"distri",
+				"Assets/Scripts/City/DistrictData.cs"
+			],
+			[
+				"storagevi",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageView.cs"
+			],
+			[
+				"truc",
+				"Assets/Scripts/Core/Garage/Truck.cs"
+			],
+			[
+				"stroage",
+				"Assets/Scripts/Core/Room/StorageRoomInfo.cs"
+			],
+			[
+				"roomin",
+				"Assets/Scripts/Core/Room/RoomInfo.cs"
+			],
+			[
+				"storagevie",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageCellView.cs"
+			],
+			[
+				"storageviewconfigurationmanager",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageViewConfigurationManager.cs"
+			],
+			[
+				"storagero",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageRoom.cs"
+			],
+			[
+				"basement",
+				"Assets/Scripts/Core/Basement/Basement.cs"
+			],
+			[
+				"truckh",
+				"Assets/Scripts/UI/HUD/HireWindow/Garage/TruckHireTabbedWindowContentView.cs"
+			],
+			[
+				"storageroo",
+				"Assets/Scripts/Core/Room/StorageRoomInfo.cs"
+			],
+			[
+				"storageview",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageView.cs"
+			],
+			[
+				"storagecell",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageCellViewFactory.cs"
+			],
+			[
+				"storagecellv",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StorageCellView.cs"
+			],
+			[
+				"scrol",
+				"Assets/Scripts/UI/General/ScrollableList.cs"
+			],
+			[
+				"sellb",
+				"Assets/Scripts/UI/HUD/GameWindow/SellButtonContorller.cs"
+			],
+			[
+				"tru",
+				"Assets/Scripts/Core/Garage/Truck.cs"
+			],
+			[
+				"storaga",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StoragableType.cs"
+			],
+			[
+				"distr",
+				"Assets/Scripts/City/DistrictData.cs"
+			],
+			[
+				"charact",
+				"Assets/Scripts/Model/CharacterSettings.cs"
+			],
+			[
+				"consum",
+				"Assets/Scripts/Core/Characters/Core/Consumer.cs"
+			],
+			[
+				"consi",
+				"Assets/Scripts/tk2d/tk2d/Code/Sprites/tk2dSpriteCollectionSize.cs"
+			],
+			[
+				"sci",
+				"Assets/Scripts/Core/Characters/Emplyees/Scientist.cs"
+			],
+			[
+				"emplo",
+				"Assets/Scripts/Model/Characters/EmployeeData.cs"
+			],
+			[
+				"emp",
+				"Assets/Scripts/Core/Characters/Emplyees/Employee.cs"
+			],
+			[
+				"figh",
+				"Assets/Scripts/Core/Characters/Core/Fighter.cs"
+			],
+			[
+				"baseme",
+				"Assets/Scripts/Core/Basement/Basement.cs"
+			],
+			[
+				"profi",
+				"Assets/Scripts/Core/Metagame/Profile.cs"
+			],
+			[
+				"rooms",
+				"Assets/Scripts/Model/RoomSettings.cs"
+			],
+			[
+				"scient",
+				"Assets/Scripts/Model/Characters/ScientistData.cs"
+			],
+			[
+				"scien",
+				"Assets/Scripts/Core/Characters/Emplyees/Scientist.cs"
+			],
+			[
+				"prod",
+				"Assets/Scripts/Model/ProductionRoomSettings.cs"
+			],
+			[
+				"prodi",
+				"Assets/Scripts/Model/ProductionRoomSettings.cs"
+			],
+			[
+				"timema",
+				"Assets/Scripts/Core/Time/TimeManager.cs"
+			],
+			[
+				"set",
+				"Assets/Scripts/Utility/Settings.cs"
+			],
+			[
+				"basementse",
+				"Assets/Scripts/Core/Basement/BasementSettings.cs"
+			],
+			[
+				".json",
+				"Assets/Resources/CopSpawnSettings.json"
+			],
+			[
+				"fet",
+				"Assets/Editor/Halfbus/FetchTables.cs"
+			],
+			[
+				"factor",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Factory/FactoryRoom.cs"
+			],
+			[
+				"json",
+				"Assets/Scripts/Utility/JSONConfigured.cs"
+			],
+			[
+				"tk2dtex",
+				"Assets/Scripts/tk2d/tk2d/Code/Fonts/tk2dTextMesh.cs"
+			],
+			[
+				"helper",
+				"Assets/Scripts/Core/Cell/Cells/Types/HelperClass.cs"
+			],
+			[
+				"garage",
+				"Assets/Scripts/UI/HUD/HireWindow/Garage/GarageListItem.cs"
+			],
+			[
+				"tric",
+				"Assets/Scripts/City/TruckListItem.cs"
+			],
+			[
+				"trucj",
+				"Assets/Resources/ConsumerSpawnSettings.json"
+			],
+			[
+				"storaget",
+				"Assets/Scripts/Core/Cell/Cells/RoomBehaviour/Storage/StoragableType.cs"
+			],
+			[
+				"ci",
+				"Assets/Scripts/City/City.cs"
+			],
+			[
+				"dis",
+				"Assets/Scripts/City/DistrictView.cs"
+			],
+			[
+				"distric",
+				"Assets/Scripts/City/DistrictData.cs"
+			],
+			[
+				"scroll",
+				"Assets/Scripts/UI/General/ScrollableList.cs"
+			],
+			[
+				"truckl",
+				"Assets/Scripts/City/TruckList/TruckList.cs"
+			],
+			[
+				"garag",
+				"Assets/Scripts/Core/Garage/GarageManager.cs"
+			],
+			[
+				"tabbed",
+				"Assets/Scripts/UI/General/TabbedWindow/TabbedWindow.cs"
+			],
+			[
+				"shopit",
+				"Assets/Scripts/UI/HUD/ShopWindow/ShopItem.cs"
+			],
+			[
+				"ico",
+				"Assets/Scripts/UI/General/IContainer.cs"
+			],
+			[
+				"gr",
+				"Assets/Scripts/UI/General/GridView.cs"
+			],
+			[
+				"icon",
+				"Assets/Scripts/UI/General/IContainer.cs"
+			],
+			[
+				"icontainerview",
+				"Assets/Scripts/UI/General/IContainerView.cs"
+			],
+			[
+				"scrola",
+				"Assets/Scripts/UI/General/ScrollableList.cs"
+			],
+			[
+				"gri",
+				"Assets/Scripts/UI/General/GridView.cs"
+			],
+			[
+				"list",
+				"Assets/Scripts/UI/General/ScrollableList.cs"
+			],
+			[
+				"ilist",
+				"Assets/Scripts/UI/General/IListView.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"PlayAfter"
+			],
+			[
+				"",
+				".Add"
+			]
+		],
+		"width": 363.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
